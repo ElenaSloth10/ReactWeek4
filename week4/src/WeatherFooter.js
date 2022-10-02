@@ -33,6 +33,9 @@ export default function WeatherFooter() {
         <i className="fa-solid fa-sun sun"></i>
         <p>20°</p>
       </div>
+      <div>
+        <a href="https://github.com/ElenaSloth10/ReactWeek4">github</a>
+      </div>
     </div>
   );
 }
